@@ -1,3 +1,4 @@
+<img width="1025" height="610" alt="VirtualBox" src="https://github.com/user-attachments/assets/a76a1645-bb35-48c3-a748-14091f8651f5" />
 # PROJECT-WORK-FOR-LAB-SETUP-WEEK-1-FOR-CYBERSECURITY
 A Week 1 cybersecurity lab project focused on setting up a cybersecurity laboratory environment, configuring tools, and performing basic security exercises.
 ## 📃Project Introduction
