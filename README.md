@@ -30,8 +30,6 @@ I created and configured a **Kali Linux virtual machine** in VirtualBox and star
 <img width="1357" height="695" alt="Starting Kalilinux" src="https://github.com/user-attachments/assets/5ad6b9d6-83b2-4f2b-9960-70f3711bb32e" />
 <img width="1363" height="696" alt="KaliLinux Distop" src="https://github.com/user-attachments/assets/55b72c54-0038-4025-ba50-bad09ca6e4f8" />  
 ## Guide 4. Configuring the KaliLinux Network.  
-### IPv4 Network Configuration
-
 I configured the **Wired Connection** in Kali Linux by setting the IPv4 method to **Manual**. I assigned the IP address **10.0.0.2/24**, configured the gateway as **10.0.0.1**, and set the DNS server to **8.8.8.8**. I then saved the settings to establish network connectivity for the cybersecurity lab.
 <img width="699" height="554" alt="Set Servers" src="https://github.com/user-attachments/assets/632ba014-c23b-47f9-a9ca-0c2a2019222e" />
 
