@@ -49,7 +49,11 @@ After that, I deactivated the connection using:
 **sudo nmcli connection down "Wired connection 1"
 and brought it back up using:**
 **sudo nmcli connection up "Wired connection 1"**
-The terminal confirmed that the connection was successfully deactivated and reactivated. However, the network problem was not completely resolved, and the ping test still failed. Therefore, I documented the troubleshooting steps and the failure as part of the Week 1 lab work.
+The terminal confirmed that the connection was successfully deactivated and reactivated. However, the network problem was not completely resolved, and the ping test still failed. Therefore, I documented the troubleshooting steps and the failure as part of the Week 1 lab work.  
+<img width="534" height="121" alt="ping google" src="https://github.com/user-attachments/assets/c491f344-d78b-48f5-afa2-ca90dcf30850" />  
+<img width="1360" height="713" alt="Network Problem" src="https://github.com/user-attachments/assets/fe867657-bc0e-4035-b603-11baafec1771" />
+
+
 
 
 
