@@ -13,3 +13,4 @@ The main objective of this project is to establish a functional cybersecurity la
 - Configuringing Network Connectivity in the Kali VirtualBox Machine  
 - Creating NAT Network for the **Lab**  
 - Verifying DNS Server
+## 📈Goal of the Lab
