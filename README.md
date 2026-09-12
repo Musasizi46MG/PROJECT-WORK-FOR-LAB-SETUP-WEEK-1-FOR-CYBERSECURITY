@@ -7,6 +7,9 @@ During Week 1, the main focus is on preparing the laboratory environment, instal
 
 The project emphasizes hands-on learning and proper documentation of the setup process. By completing the laboratory setup, the learner will have a suitable environment for carrying out cybersecurity experiments while developing practical technical skills.
 ## 🥅Objective
+The purpose of the cybersecurity laboratory is to provide a safe and controlled environment for learning and practicing cybersecurity concepts. The lab allows learners to install, configure, and test different cybersecurity tools without affecting real-world systems.
+
+It is designed to develop practical skills in areas such as network security, system security, vulnerability assessment, ethical security testing, and digital forensics. The laboratory also provides an environment where learners can safely experiment, troubleshoot problems, document their findings, and gain practical experience that can be applied to real cybersecurity situations.
 The main objective of this project is to establish a functional cybersecurity laboratory for practical learning and security exercises.  
 - Installing VirtualBox   
 - Install KaliLinux in Virtual Machine  
