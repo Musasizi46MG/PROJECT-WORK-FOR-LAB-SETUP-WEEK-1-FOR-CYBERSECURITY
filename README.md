@@ -24,7 +24,12 @@ I downloaded and installed VirtualBox for Windows based on the operating system 
 ## Guide 2. Setting or Creating NATNetwork. 
 I configured a NAT Network in VirtualBox to provide network connectivity for the virtual machines. I created the network using the name NatNetwork, enabled DHCP, and used the IPv4 network range 10.0.0.0/24. This configuration allows virtual machines in the cybersecurity lab to communicate through the NAT network while receiving IP addresses automatically.  
 <img width="1360" height="682" alt="NATnetwork" src="https://github.com/user-attachments/assets/8f4526be-1527-41ba-99d1-11d97ecaba63" />  
-## Guide 3. Starting or Running KaliLinux Inside VirtualBox Machine.
+## Guide 3. Starting or Running KaliLinux Inside VirtualBox Machine.  
+### Starting Kali Linux Virtual Machine
+I created and configured a **Kali Linux virtual machine** in VirtualBox and started it for the cybersecurity lab. I allocated **2 GB of RAM and 2 processors** and configured the network adapter to use the previously created **NAT Network (NatNetwork)** for network connectivity.
+<img width="1357" height="695" alt="Starting Kalilinux" src="https://github.com/user-attachments/assets/5ad6b9d6-83b2-4f2b-9960-70f3711bb32e" />
+
+
 
 
 
