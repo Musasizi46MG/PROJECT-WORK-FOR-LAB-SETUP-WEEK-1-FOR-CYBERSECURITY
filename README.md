@@ -39,8 +39,8 @@ I checked the Network Connections settings in Kali Linux and confirmed that the 
 | Test | Command | |
 |---|---:|---
 | Checking IP Address | ip a 
-| John | 25  
-| Sarah | 27 
+| Testing DNS  | ping 8.8.8.8  
+| Testing Internet Connectivity | ping google.com 
 
 
 
