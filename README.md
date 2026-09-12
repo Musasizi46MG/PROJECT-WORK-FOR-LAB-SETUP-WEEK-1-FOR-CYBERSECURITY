@@ -19,7 +19,7 @@ The main objective of this project is to establish a functional cybersecurity la
 The Goal of the cybersecurity laboratory is to provide a safe and controlled environment for learning and practicing cybersecurity concepts. The lab allows me to install, configure, and test different cybersecurity tools without affecting real-world systems.  
 ## ⚙️Lab SetUp Implementation.  
 ## Guide 1. Downloading VirtualBox Machine.  
-I downloaded and installed VirtualBox for Windows based on the operating system and specifications of the machine I am using.
+I downloaded and installed VirtualBox for Windows based on the operating system and specifications of the machine I am using. And the verions of VirtualBox is 7.2.16.
 <img width="497" height="387" alt="Virtual 7 2 16 installer" src="https://github.com/user-attachments/assets/ed1d588d-26e4-4c41-97c9-6a1ee9513684" /> <img width="1023" height="496" alt="Download Virtualbox" src="https://github.com/user-attachments/assets/9b2de168-b8d4-41e6-9ae4-ea34adbf5363" /><img width="1025" height="610" alt="VirtualBox" src="https://github.com/user-attachments/assets/1c0b0308-b54b-492d-9383-84f6814e61d7" />
 
 
