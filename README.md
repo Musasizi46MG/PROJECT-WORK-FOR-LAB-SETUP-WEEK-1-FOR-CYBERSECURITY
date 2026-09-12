@@ -38,7 +38,7 @@ I checked the Network Connections settings in Kali Linux and confirmed that the 
 ## Below is the Commands.   
 | Test | Command | |
 |---|---:|---
-| Moses | 28  
+| Checking IP Address | ip a 
 | John | 25  
 | Sarah | 27 
 
