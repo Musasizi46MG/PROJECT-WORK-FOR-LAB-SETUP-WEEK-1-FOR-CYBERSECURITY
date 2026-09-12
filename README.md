@@ -7,3 +7,9 @@ During Week 1, the main focus is on preparing the laboratory environment, instal
 
 The project emphasizes hands-on learning and proper documentation of the setup process. By completing the laboratory setup, the learner will have a suitable environment for carrying out cybersecurity experiments while developing practical technical skills.
 ## 🥅Objective
+The main objective of this project is to establish a functional cybersecurity laboratory for practical learning and security exercises.
+-- Installing VirtualBox 
+-- Install KaliLinux in Virtual Machine
+-- Configuringing Network Connectivity in the Kali VirtualBox Machine
+-- Creating NAT Network for the **Lab**
+-- Verifying DNS Server
