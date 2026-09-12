@@ -34,7 +34,9 @@ I configured the **Wired Connection** in Kali Linux by setting the IPv4 method t
 <img width="699" height="554" alt="Set Servers" src="https://github.com/user-attachments/assets/632ba014-c23b-47f9-a9ca-0c2a2019222e" />  
 ## Guide 5. Testing the KaliLinux Using the Commands.  
 I checked the Network Connections settings in Kali Linux and confirmed that the **Wired Connection 1 was active**  and being used. This verified that the network configuration had been successfully applied and the system was connected to the configured Ethernet network.  
-<img width="649" height="521" alt="congf" src="https://github.com/user-attachments/assets/82792b80-6e37-44f7-83da-41963b85ea6b" />
+<img width="649" height="521" alt="congf" src="https://github.com/user-attachments/assets/82792b80-6e37-44f7-83da-41963b85ea6b" />  
+## Below is the Commands.  
+| Commands | Test |
 
 
 
