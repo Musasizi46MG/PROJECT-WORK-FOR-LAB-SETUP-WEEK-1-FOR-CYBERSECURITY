@@ -42,20 +42,13 @@ I checked the Network Connections settings in Kali Linux and confirmed that the 
 | Testing DNS  | ping 8.8.8.8  
 | Testing Internet Connectivity | ping google.com  
 ## Guide 5. Challenges I Faced.  
-I encountered a network connectivity problem in Kali Linux. When I tested the connection using ping google.com, the system returned “Temporary failure in name resolution,” indicating that the system could not resolve the domain name.
-
+I encountered a network connectivity problem in Kali Linux. When I tested the connection using **ping google.com,** the system returned **“Temporary failure in name resolution,”** indicating that the system could not resolve the domain name.
 I then attempted to troubleshoot the problem using NetworkManager commands. I modified the connection timeout using:
-
-sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
-
+**sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0**
 After that, I deactivated the connection using:
-
-sudo nmcli connection down "Wired connection 1"
-
-and brought it back up using:
-
-sudo nmcli connection up "Wired connection 1"
-
+**sudo nmcli connection down "Wired connection 1"
+and brought it back up using:**
+**sudo nmcli connection up "Wired connection 1"**
 The terminal confirmed that the connection was successfully deactivated and reactivated. However, the network problem was not completely resolved, and the ping test still failed. Therefore, I documented the troubleshooting steps and the failure as part of the Week 1 lab work.
 
 
