@@ -28,7 +28,7 @@ I configured a NAT Network in VirtualBox to provide network connectivity for the
 ### Starting Kali Linux Virtual Machine
 I created and configured a **Kali Linux virtual machine** in VirtualBox and started it for the cybersecurity lab. I allocated **2 GB of RAM and 2 processors** and configured the network adapter to use the previously created **NAT Network (NatNetwork)** for network connectivity.
 <img width="1357" height="695" alt="Starting Kalilinux" src="https://github.com/user-attachments/assets/5ad6b9d6-83b2-4f2b-9960-70f3711bb32e" />
-<img width="1363" height="696" alt="KaliLinux Distop" src="https://github.com/user-attachments/assets/55b72c54-0038-4025-ba50-bad09ca6e4f8" />
+<img width="1363" height="696" alt="KaliLinux Distop" src="https://github.com/user-attachments/assets/55b72c54-0038-4025-ba50-bad09ca6e4f8" />  
 
 
 
