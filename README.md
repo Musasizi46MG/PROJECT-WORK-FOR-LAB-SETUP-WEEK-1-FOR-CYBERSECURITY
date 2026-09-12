@@ -37,10 +37,10 @@ I checked the Network Connections settings in Kali Linux and confirmed that the 
 <img width="649" height="521" alt="congf" src="https://github.com/user-attachments/assets/82792b80-6e37-44f7-83da-41963b85ea6b" />  
 ## Below is the Commands.   
 | Test | Command | |
-|---|---:|---|
-| Moses | 28 | 
-| John | 25 | 
-| Sarah | 27 |
+|---|---:|---
+| Moses | 28  
+| John | 25  
+| Sarah | 27 
 
 
 
