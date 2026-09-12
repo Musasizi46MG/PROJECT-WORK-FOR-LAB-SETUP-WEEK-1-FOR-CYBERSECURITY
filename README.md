@@ -15,5 +15,5 @@ The main objective of this project is to establish a functional cybersecurity la
 - Creating NAT Network for the **Lab**  
 - Verifying DNS Server
 ## 📈Goal of the Lab
-The Goal of the cybersecurity laboratory is to provide a safe and controlled environment for learning and practicing cybersecurity concepts. The lab allows learners to install, configure, and test different cybersecurity tools without affecting real-world systems.
+The Goal of the cybersecurity laboratory is to provide a safe and controlled environment for learning and practicing cybersecurity concepts. The lab allows me to install, configure, and test different cybersecurity tools without affecting real-world systems.
 
